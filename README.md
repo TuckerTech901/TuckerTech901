@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katrina.</h1>
-<h3 align="center">A extremely versatile software engineer with a tax law and financial background.</h3>
+<h3 align="center">A extremely versatile software engineer with a background in tax law and financial analysis.</h3>
 
 - 🌱 I’m currently learning **the backend of the MERN stack.**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katrina.</h1>
 <h3 align="center">A extremely versatile software engineer with a background in tax law and financial analysis.</h3>
 
-- 🌱 I’m currently learning **the backend of the MERN stack.**
+- 🌱 I’m currently learning *Full Stack CRUD Applications and Authnetication.**
 
 - 💬 Ask me about **javascript, javascript, javascript! (oh and taxes if you really want)**
 

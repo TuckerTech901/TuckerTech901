@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katrina.</h1>
-<h3 align="center">A versatile full stack software engineer with a background in tax law and financial analysis. </h3>
+<h3 align="center">A versatile full-stack software engineer with a background in tax law and financial analysis. </h3>
 
-- 🌱 I’m currently learning Java and PostGreSQL.
+- 🌱 I’m currently learning Angular and C++.
 
 - 💬 Ask me about **javascript, javascript, javascript! (oh and taxes if you really want)**
 
